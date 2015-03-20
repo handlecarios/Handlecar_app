@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>https://github.com/handlecarios/Handlecar_app/raw/master/Client_pro/handleclient.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://121.199.30.58/projects/AppIconImages/icon_handleclient@2x.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://121.199.30.58/projects/AppIconImages/icon_handleclient.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
